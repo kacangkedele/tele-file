@@ -1,0 +1,17 @@
+{
+    "bot_token": "PASTE_TOKEN_DARI_BOTFATHER_DISINI",
+    "admin_username": "AnggaOfficial",
+    "bot_name": "FlenConvert",
+    "owner_id": null,
+    "default_vcf_chunk_size": 100,
+    "max_merge_files": 20,
+    "adm_format": "ADM-{num:03d}:{phone}",
+    "nvy_format": "NVY-{num:03d}:{phone}",
+    "contact_name_prefix": "Contact",
+    "premium_features": {
+        "use_markdown_v2": false,
+        "blue_branding_link": true,
+        "animated_emoji": true,
+        "spoiler_warnings": true
+    }
+}
