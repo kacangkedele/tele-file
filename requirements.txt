@@ -1,0 +1,12 @@
+# FlenConvert Bot - Python Dependencies
+# Install dengan: pip install -r requirements.txt
+#
+# Versi yang dipilih sudah ditest kompatibel dengan Termux (Python 3.11+)
+# dan stabil untuk Android.
+
+# Telegram Bot API framework (butuh Python 3.8+)
+python-telegram-bot==21.6
+
+# Excel file parser (untuk fitur XLS to TXT)
+# Optional - bot tetap jalan tanpa ini, hanya fitur XLS nonaktif
+openpyxl==3.1.5
